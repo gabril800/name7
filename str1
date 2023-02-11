@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <title>Котики</title>
+        <link rel = "stylesheet" href ="style1.css"/>
+    </head>
+    <body>
+        <header>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <h1>Топ 5...</h1>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+        </header>
+        <main>
+            <br>
+            <p><a  class = "a"  href = "#id">Фактов о котиках</a>
+            <a class = "need_a"  href = "#id">Больших пород котиков</a>
+            <a  class = "need_a"  href = "#id">Домашних пород</a></p>
+        <br>
+        
+        <ul>
+            <li>Частота пульса у кошки гораздо выше, чем у человека и 
+составляет от 110 до 140 ударов сердца в минуту.</li>
+            <li>Кошка может прыгать на высоту, в 5 раз превышающую 
+ее рост.</li>
+            <li>У кошек на 24 кости больше, чем у человека.</li>
+            <li>Отпечаток носа у каждой кошки так же уникален, как 
+и отпечатки пальцев у человека.</li>
+            <li>Количество домашних кошек в мире достигает 500 
+миллионов.</li>
+        </ul>
+        </main>
+        <footer>
+            <img src = "https://avatars.mds.yandex.net/i?id=34ec7cba95cd523fe0df26cd5a323570_sr-5317911-images-thumbs&n=13">
+            <img src = "https://avatars.mds.yandex.net/i?id=09f788d8a4cf0531ce10c5fda56a78c7_sr-4922198-images-thumbs&n=13">
+        </footer>
+    </body>
+</html>
