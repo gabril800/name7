@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <title>Котики</title>
+        <link rel = "stylesheet" href ="style.css"/>
+    </head>
+    <body>
+        <header>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <h1>Топ 5...</h1>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+        </header>
+        <main>
+            <br>
+            <p><a  class = "need_a"  href = "#id">Фактов о котиках</a>
+            <a class = "a"  href = "#id">Больших пород котиков</a>
+            <a  class = "need_a"  href = "#id">Домашних пород</a></p>
+        <br>
+        
+        <ul>
+            <li>Мейн-кун</li>
+            <li>Саванна</li>
+            <li>Чаузи</li>
+            <li>Регдолл</li>
+            <li>Рагамаффин</li>
+        </ul>
+        </main>
+        <footer>
+            <img src = "https://avatars.mds.yandex.net/i?id=fe04373824d1296a7f8abd55df0f089bcbd03c83-7684353-images-thumbs&n=13">
+            <img src = "https://sun1-95.userapi.com/s/v1/ig2/OEGgbOsAn-J6OGEbLSo2s_TZQ9BEZlDoG0OvYIJfBdi0c61twcLMRUrgcpwgpmg43O3b3EE6I3bZLr0_exinwRru.jpg?size=200x200&quality=96&crop=232,0,1276,1276&ava=1">
+            <img src = "https://sun9-80.userapi.com/s/v1/ig2/XebgUrq6_g9X2x-DcEsIqfRnOKHBOL9JtWi0PAHQg0__YuPRrI8v6EgAT9_01moCLcNJDVv-EtxJq8Qp-YapOqBS.jpg?size=200x200&quality=96&crop=226,2,1064,1064&ava=1">
+        </footer>
+    </body>
+</html>
